@@ -10,3 +10,7 @@ total = numero_1 - numero_2
 modificación de rama "developer"
 
 total = numero_1 * numero_2
+
+modificación de rama "testing"
+
+total = numero_1 % numero_2

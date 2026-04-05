@@ -1,0 +1,3 @@
+numero_1 = 10
+numero_2 = 15
+total = numero_1 + numero_2
